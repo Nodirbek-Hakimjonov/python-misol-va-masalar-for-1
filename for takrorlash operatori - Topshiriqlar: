@@ -1,0 +1,5 @@
+1. k va n (n>0) butun sonlar berilgan. n marta k soni chiqarilsin.
+k=3
+n=4
+for i in range(n):
+    print(k,end=' ')
