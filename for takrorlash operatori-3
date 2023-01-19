@@ -1,0 +1,9 @@
+a va b butun sonlar berilgan(a<b). a va b sonlari orasidagi sonlarni kamayish tartibida
+chiqarilsin(a va b sonlari ham kiradi) hamda shu sonlar miqdori (soni) n chiqarilsin.
+a=5
+b=15
+
+for i in range(a,b+1):
+
+    print(i,end=' ')
+print(b-a)
