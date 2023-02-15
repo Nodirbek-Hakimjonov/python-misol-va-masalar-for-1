@@ -1,0 +1,10 @@
+# 9. a va b butun sonlar berilgan. (a<b) a dan b gacha bo‘lgan sonlarning kvadratlar yig‘indisi
+# topilsin.
+# a=1
+# # b=4
+# # x=1
+# # z=0
+# # for i in range(a,b+1):
+# #     x=i**2
+# #     z+=x
+# # print(z)
