@@ -1,0 +1,7 @@
+# 7. 2 ta a va b butun sonlar berilgan. (a<b) a dan b gacha bo‘lgan butun sonlar yig‘indisi topilsin.
+# a=2
+# b=5
+# x=0
+# for i in range(a,b+1):
+#     x+=i
+# print(x)
