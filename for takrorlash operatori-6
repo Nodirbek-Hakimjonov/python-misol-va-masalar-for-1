@@ -1,0 +1,6 @@
+# 6. 1 kg konfetning narxi berilgan. 1,2, 1,4, …, 2 kg konfetning bahosi chiqarilsin.
+# a=10
+# for i in range(12,21):
+#     x=i/10
+#     s=x*a
+#     print(int(s))
